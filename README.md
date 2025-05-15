@@ -4,7 +4,8 @@
 
 
 </div>
-<h1 align="center">100 Days of Code</h1>
 
 - [x] Day 1 - [Print into the World](/Day%201%20-%20Print%20Into%20The%20World/project_1.py)
 - [x] Day 2 - [Getting to Know You](/Day%202%20-%20Getting%20To%20Know%20You/project_2.py)
+- [x] Day 3 - [The Ultimate Wacky Recipe Maker](/Day%203%20-%20The%20Ultimate%20Wacky%20Recipe%20Maker/project_3.py)
+- [x] Day 4 - [Everyone loves a good story!](/Day%204%20-%20Everyone%20Loves%20A%20Good%20Story!/project_4.py)
