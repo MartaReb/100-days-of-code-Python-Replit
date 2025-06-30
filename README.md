@@ -6,3 +6,4 @@
 </div>
 
 - [x] Day 1 - [Print Into The World](Day%201%20-%20Print%20Into%20The%20World/project_1.py)
+- [x] Day 2 - [Getting To Know You](Day%202%20-%20Getting%20To%20Know%20You/project_2.py)
