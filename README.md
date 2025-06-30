@@ -4,3 +4,5 @@
 
 
 </div>
+
+- [x] Day 1 - [Print Into The World](Day%201%20-%20Print%20Into%20The%20World/project_1.py)
