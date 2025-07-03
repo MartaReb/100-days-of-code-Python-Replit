@@ -10,3 +10,4 @@
 - [x] Day 3 - [The Ultimate Wacky Recipe Maker](Day%203%20-%20The%20Ultimate%20Wacky%20Recipe%20Maker/project_3.py)
 - [x] Day 4 - [Everyone Loves A Good Story!](Day%204%20-%20Everyone%20Loves%20A%20Good%20Story!/project_4.py)
 - [x] Day 5 - [Which Character Are You](Day%205%20-%20Which%20Character%20Are%20You/project_5.py)
+- [x] Day 6 - [Which Character Are You](Day%206%20-%20Login%20Program/project_6.py)
