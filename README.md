@@ -11,3 +11,4 @@
 - [x] Day 4 - [Everyone Loves A Good Story!](Day%204%20-%20Everyone%20Loves%20A%20Good%20Story!/project_4.py)
 - [x] Day 5 - [Which Character Are You](Day%205%20-%20Which%20Character%20Are%20You/project_5.py)
 - [x] Day 6 - [Login Program](Day%206%20-%20Login%20Program/project_6.py)
+- [x] Day 7 - [Fake Fan Questions](Day%207%20-%20Fake%20Fan%20Questions/project_7.py)
