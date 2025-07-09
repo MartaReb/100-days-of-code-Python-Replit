@@ -15,3 +15,4 @@
 - [x] Day 8 - [Affirmations](Day%208%20-%20Affirmations/project_8.py)
 - [x] Day 9 - [Generation Generator](Day%209%20-%20Generation%20Generator/project_9.py)
 - [x] Day 10 - [Extend Your Bill Calculator](Day%2010%20-%20Extend%20Your%20Bill%20Calculator/project_10.py)
+- [x] Day 11 - [How Many Seconds Are In A Year](Day%2011%20-%20How%20Many%20Seconds%20Are%20In%20A%20Year/project_11.py)
