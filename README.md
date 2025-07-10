@@ -17,3 +17,4 @@
 - [x] Day 10 - [Extend Your Bill Calculator](Day%2010%20-%20Extend%20Your%20Bill%20Calculator/project_10.py)
 - [x] Day 11 - [How Many Seconds Are In A Year](Day%2011%20-%20How%20Many%20Seconds%20Are%20In%20A%20Year/project_11.py)
 - [x] Day 12 - [Debug My Code](Day%2012%20-%20Debug%20My%20Code/project_12.py)
+- [x] Day 13 - [Exam Grade Calculator](Day%2013%20-%20Exam%20Grade%20Calculator/project_13.py)
