@@ -22,3 +22,4 @@
 - [x] Day 15 - [Animal Sound](Day%2015%20-%20Animal%20Sound/project_15.py)
 - [x] Day 16 - [Name The Lyrics](Day%2016%20-%20Name%20The%20Lyrics/project_16.py)
 - [x] Day 17 - [Scoring Rock-Paper-Scissors Game](Day%2017%20-%20Scoring%20Rock-Paper-Scissors%20Game/project_17.py)
+- [x] Day 18 - [Guess The Number Game](Day%2018%20-%20Guess%20The%20Number%20Game/project_18.py)
