@@ -1,0 +1,10 @@
+print("Number List Generator")
+print()
+print("You are going to give me a number you want to start with, an ending number, and by how many you want me to add each time.")
+print()
+start_number = int(input("Start at: "))
+end_number = int(input("End before: "))
+increment_number = int(input("Increment between values: "))
+print()
+for i in range(start_number, end_number + 1, increment_number):
+  print(i)
