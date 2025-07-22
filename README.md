@@ -26,3 +26,4 @@
 - [x] Day 19 - [Loan Calculator](Day%2019%20-%20Loan%20Calculator/project_19.py)
 - [x] Day 20 - [Number List Generator](Day%2020%20-%20Number%20List%20Generator/project_20.py)
 - [x] Day 21 - [Math Game](Day%2021%20-%20Math%20Game/project_21.py)
+- [x] Day 22 - [Guess The Random Number Game](Day%2022%20-%20Guess%20The%20Random%20Number%20Game/project_22.py)
