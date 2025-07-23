@@ -28,3 +28,4 @@
 - [x] Day 21 - [Math Game](Day%2021%20-%20Math%20Game/project_21.py)
 - [x] Day 22 - [Guess The Random Number Game](Day%2022%20-%20Guess%20The%20Random%20Number%20Game/project_22.py)
 - [x] Day 23 - [Login System](Day%2023%20-%20Login%20System/project_23.py)
+- [x] Day 24 - [Infinity Dice](Day%2024%20-%20Infinity%20Dice/project_24.py)
