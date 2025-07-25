@@ -31,3 +31,4 @@
 - [x] Day 24 - [Infinity Dice](Day%2024%20-%20Infinity%20Dice/project_24.py)
 - [x] Day 25 - [Character Stats Generator](Day%2025%20-%20Character%20Stats%20Generator/project_25.py)
 - [x] Day 26 - [Play A Song](Day%2026%20-%20Play%20A%20Song/project_26.py)
+- [x] Day 27 - [Video Game Creation](Day%2027%20-%20Video%20Game%20Creation/project_27.py)
