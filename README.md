@@ -33,4 +33,4 @@
 - [x] Day 26 - [Play A Song](Day%2026%20-%20Play%20A%20Song/project_26.py)
 - [x] Day 27 - [Video Game Creation](Day%2027%20-%20Video%20Game%20Creation/project_27.py)
 - [x] Day 28 - [Game Battle System](Day%2028%20-%20Game%20Battle%20System/project_28.py)
-
+- [x] Day 29 - [Text in color](Day%2029%20-%20Text%20in%20color/project_29.py)
