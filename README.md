@@ -35,3 +35,4 @@
 - [x] Day 28 - [Game Battle System](Day%2028%20-%20Game%20Battle%20System/project_28.py)
 - [x] Day 29 - [Text in color](Day%2029%20-%20Text%20in%20color/project_29.py)
 - [x] Day 30 - [30 Days Down](Day%2030%20-%2030%20Days%20Down/project_30.py)
+- [x] Day 31 - [User Interface](Day%2031%20-%20User%20Interface/project_31.py)
