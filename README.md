@@ -37,3 +37,4 @@
 - [x] Day 30 - [30 Days Down](Day%2030%20-%2030%20Days%20Down/project_30.py)
 - [x] Day 31 - [User Interface](Day%2031%20-%20User%20Interface/project_31.py)
 - [x] Day 32 - [Greetings](Day%2032%20-%20Greetings/project_32.py)
+- [x] Day 33 - [To Do List Manager](Day%2033%20-%20To%20Do%20List%20Manager/project_33.py)
