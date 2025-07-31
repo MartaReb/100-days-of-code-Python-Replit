@@ -38,3 +38,4 @@
 - [x] Day 31 - [User Interface](Day%2031%20-%20User%20Interface/project_31.py)
 - [x] Day 32 - [Greetings](Day%2032%20-%20Greetings/project_32.py)
 - [x] Day 33 - [To Do List Manager](Day%2033%20-%20To%20Do%20List%20Manager/project_33.py)
+- [x] Day 34 - [Get Spamming](Day%2034%20-%20Get%20Spamming/project_34.py)
