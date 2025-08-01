@@ -39,3 +39,4 @@
 - [x] Day 32 - [Greetings](Day%2032%20-%20Greetings/project_32.py)
 - [x] Day 33 - [To Do List Manager](Day%2033%20-%20To%20Do%20List%20Manager/project_33.py)
 - [x] Day 34 - [Get Spamming](Day%2034%20-%20Get%20Spamming/project_34.py)
+- [x] Day 35 - [A Really Cool To Do List Manager](Day%2035%20-%20A%20Really%20Cool%20To%20Do%20List%20Manager/project_35.py)
