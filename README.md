@@ -41,3 +41,4 @@
 - [x] Day 34 - [Get Spamming](Day%2034%20-%20Get%20Spamming/project_34.py)
 - [x] Day 35 - [A Really Cool To Do List Manager](Day%2035%20-%20A%20Really%20Cool%20To%20Do%20List%20Manager/project_35.py)
 - [x] Day 36 - [List Of People's Name](Day%2036%20-%20List%20Of%20People's%20Name/project_36.py)
+- [x] Day 37 - [Star Wars Name Generator](Day%2037%20-%20Star%20Wars%20Name%20Generator/project_37.py)
