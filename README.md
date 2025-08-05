@@ -43,3 +43,4 @@
 - [x] Day 36 - [List Of People's Name](Day%2036%20-%20List%20Of%20People's%20Name/project_36.py)
 - [x] Day 37 - [Star Wars Name Generator](Day%2037%20-%20Star%20Wars%20Name%20Generator/project_37.py)
 - [x] Day 38 - [The Rainbow](Day%2038%20-%20The%20Rainbow/project_38.py)
+- [x] Day 39 - [Veggy-Hangman](Day%2039%20-%20Veggy-Hangman/project_39.py)
