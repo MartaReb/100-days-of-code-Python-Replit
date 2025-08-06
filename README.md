@@ -44,3 +44,4 @@
 - [x] Day 37 - [Star Wars Name Generator](Day%2037%20-%20Star%20Wars%20Name%20Generator/project_37.py)
 - [x] Day 38 - [The Rainbow](Day%2038%20-%20The%20Rainbow/project_38.py)
 - [x] Day 39 - [Veggy-Hangman](Day%2039%20-%20Veggy-Hangman/project_39.py)
+- [x] Day 40 - [Contact Card](Day%2040%20-%20Contact%20Card/project_40.py)
