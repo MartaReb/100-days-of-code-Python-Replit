@@ -47,3 +47,4 @@
 - [x] Day 40 - [Contact Card](Day%2040%20-%20Contact%20Card/project_40.py)
 - [x] Day 41 - [Website Dictionary](Day%2041%20-%20Website%20Dictionary/project_41.py)
 - [x] Day 42 - [MokeBeast](Day%2042%20-%20MokeBeast/project_42.py)
+- [x] Day 43 - [Bingo Card](Day%2043%20-%20Bingo%20Card/project_43.py)
