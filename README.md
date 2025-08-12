@@ -50,3 +50,4 @@
 - [x] Day 43 - [Bingo Card](Day%2043%20-%20Bingo%20Card/project_43.py)
 - [x] Day 44 - [More Bingo](Day%2044%20-%20More%20Bingo/project_44.py)
 - [x] Day 45 - [List Management System](Day%2045%20-%20List%20Management%20System/project_45.py)
+- [x] Day 46 - [Mokebeast Mokedex](Day%2046%20-%20%20Mokebeast%20Mokedex/project_46.py)
