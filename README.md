@@ -33,7 +33,7 @@
 - [x] Day 26 - [Play A Song](Day%2026%20-%20Play%20A%20Song/project_26.py)
 - [x] Day 27 - [Video Game Creation](Day%2027%20-%20Video%20Game%20Creation/project_27.py)
 - [x] Day 28 - [Game Battle System](Day%2028%20-%20Game%20Battle%20System/project_28.py)
-- [x] Day 29 - [Text in color](Day%2029%20-%20Text%20in%20color/project_29.py)
+- [x] Day 29 - [Text In Color](Day%2029%20-%20Text%20in%20color/project_29.py)
 - [x] Day 30 - [30 Days Down](Day%2030%20-%2030%20Days%20Down/project_30.py)
 - [x] Day 31 - [User Interface](Day%2031%20-%20User%20Interface/project_31.py)
 - [x] Day 32 - [Greetings](Day%2032%20-%20Greetings/project_32.py)
@@ -51,3 +51,4 @@
 - [x] Day 44 - [More Bingo](Day%2044%20-%20More%20Bingo/project_44.py)
 - [x] Day 45 - [List Management System](Day%2045%20-%20List%20Management%20System/project_45.py)
 - [x] Day 46 - [Mokebeast Mokedex](Day%2046%20-%20%20Mokebeast%20Mokedex/project_46.py)
+- [x] Day 47 - [Top Trumps](Day%2047%20-%20Top%20Trumps/project_47.py)
