@@ -52,3 +52,4 @@
 - [x] Day 45 - [List Management System](Day%2045%20-%20List%20Management%20System/project_45.py)
 - [x] Day 46 - [Mokebeast Mokedex](Day%2046%20-%20%20Mokebeast%20Mokedex/project_46.py)
 - [x] Day 47 - [Top Trumps](Day%2047%20-%20Top%20Trumps/project_47.py)
+- [x] Day 48 - [High Score Table](Day%2048%20-%20High%20Score%20Table/project_48.py)
