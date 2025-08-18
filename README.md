@@ -53,3 +53,4 @@
 - [x] Day 46 - [Mokebeast Mokedex](Day%2046%20-%20%20Mokebeast%20Mokedex/project_46.py)
 - [x] Day 47 - [Top Trumps](Day%2047%20-%20Top%20Trumps/project_47.py)
 - [x] Day 48 - [High Score Table](Day%2048%20-%20High%20Score%20Table/project_48.py)
+- [x] Day 49 - [Current Leader](Day%2049%20-%20Current%20Leader/project_49.py)
