@@ -55,3 +55,4 @@
 - [x] Day 48 - [High Score Table](Day%2048%20-%20High%20Score%20Table/project_48.py)
 - [x] Day 49 - [Current Leader](Day%2049%20-%20Current%20Leader/project_49.py)
 - [x] Day 50 - [Idea storage system](Day%2050%20-%20Idea%20storage%20system/project_50.py)
+- [x] Day 51 - [New To Do List](Day%2051%20-%20New%20To%20Do%20List/project_51.py)
