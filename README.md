@@ -57,3 +57,4 @@
 - [x] Day 50 - [Idea storage system](Day%2050%20-%20Idea%20storage%20system/project_50.py)
 - [x] Day 51 - [New To Do List](Day%2051%20-%20New%20To%20Do%20List/project_51.py)
 - [x] Day 52 - [Pizza Place](Day%2052%20-%20Pizza%20Place/project_52.py)
+- [x] Day 53 - [RPG inventory](Day%2053%20-%20RPG%20inventory/project_53.py)
