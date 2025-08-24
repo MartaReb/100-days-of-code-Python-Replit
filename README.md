@@ -61,3 +61,4 @@
 - [x] Day 54 - [Shop Tracker](Day%2054%20-%20Shop%20Tracker/project_54.py)
 - [x] Day 55 - [Backup Folder](Day%2055%20-%20Backup%20Folder/project_55.py)
 - [x] Day 56 - [Music Streaming Service](Day%2056%20-%20Music%20Streaming%20Service/project_56.py)
+- [x] Day 57 - [Factorial Finder](Day%2057%20-%20Factorial%20Finder/project_57.py)
