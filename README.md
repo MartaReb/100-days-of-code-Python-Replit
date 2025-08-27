@@ -63,3 +63,4 @@
 - [x] Day 56 - [Music Streaming Service](Day%2056%20-%20Music%20Streaming%20Service/project_56.py)
 - [x] Day 57 - [Factorial Finder](Day%2057%20-%20Factorial%20Finder/project_57.py)
 - [x] Day 58 - [Debugging](Day%2058%20-%20Debugging/project_58.py)
+- [x] Day 59 - [Palindrome Checker](Day%2059%20-%20Palindrome%20Checker/project_59.py)
