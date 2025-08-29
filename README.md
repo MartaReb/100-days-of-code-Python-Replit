@@ -65,3 +65,4 @@
 - [x] Day 58 - [Debugging](Day%2058%20-%20Debugging/project_58.py)
 - [x] Day 59 - [Palindrome Checker](Day%2059%20-%20Palindrome%20Checker/project_59.py)
 - [x] Day 60 - [Event Countdown Timer](Day%2060%20-%20Event%20Countdown%20Timer/project_60.py)
+- [x] Day 61 - [Let's tweet](Day%2061%20-%20Let's%20tweet/project_61.py)
