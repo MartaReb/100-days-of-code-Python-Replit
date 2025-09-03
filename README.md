@@ -68,3 +68,4 @@
 - [x] Day 61 - [Let's tweet](Day%2061%20-%20Let's%20tweet/project_61.py)
 - [x] Day 62 - [Private Diary](Day%2062%20-%20Private%20Diary/project_62.py)
 - [x] Day 63 - [Multiple Files](Day%2063%20-%20Multiple%20Files/project_63.py)
+- [x] Day 64 - [Jobs Classes](Day%2064%20-%20Jobs%20Classes/project_64.py)
