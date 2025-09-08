@@ -71,3 +71,4 @@
 - [x] Day 64 - [Jobs Classes](Day%2064%20-%20Jobs%20Classes/project_64.py)
 - [x] Day 65 - [Characters For Video Game](Day%2065%20-%20Characters%20For%20Video%20Game/project_65.py)
 - [x] Day 66 - [GUI calculator](Day%2066%20-%20GUI%20calculator/project_66.py)
+- [x] Day 67 - [Guess Who](Day%2067%20-%20Guess%20Who/project_67.py)
