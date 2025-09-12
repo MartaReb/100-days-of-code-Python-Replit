@@ -75,3 +75,4 @@
 - [x] Day 68 - [Guess Who Hiding Images](Day%2068%20-%20Guess%20Who%20Hiding%20Images/project_68.py)
 - [x] Day 70 - [Login System](Day%2070%20-%20Login%20System/project_70.py)
 - [x] Day 71 - [Login System - Hashing](Day%2071%20-%20Login%20System%20-%20Hashing/project_71.py)
+- [x] Day 72 - [Secure Private Diary](Day%2072%20-%20Secure%20Private%20Diary/project_72.py)
