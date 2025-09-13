@@ -78,3 +78,4 @@
 - [x] Day 72 - [Secure Private Diary](Day%2072%20-%20Secure%20Private%20Diary/project_72.py)
 - [x] Day 73 - [Web portfolio - Start](Day%2073%20-%20Web%20portfolio%20-%20Start/index.html)
 - [x] Day 74 - [Style Web Portfolio](Day%2074%20-%20Style%20Web%20Portfolio/index.html)
+- [x] Day 75 - [Link Tree Website](Day%2075%20-%20Link%20Tree%20Website/index.html)
