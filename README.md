@@ -79,3 +79,4 @@
 - [x] Day 73 - [Web portfolio - Start](Day%2073%20-%20Web%20portfolio%20-%20Start/index.html)
 - [x] Day 74 - [Style Web Portfolio](Day%2074%20-%20Style%20Web%20Portfolio/index.html)
 - [x] Day 75 - [Link Tree Website](Day%2075%20-%20Link%20Tree%20Website/index.html)
+- [x] Day 76 - [Flask Web Server](Day%2076%20-%20Flask%20Web%20Server/project_76.py)
