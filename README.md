@@ -81,3 +81,4 @@
 - [x] Day 75 - [Link Tree Website](Day%2075%20-%20Link%20Tree%20Website/index.html)
 - [x] Day 76 - [Flask Web Server](Day%2076%20-%20Flask%20Web%20Server/project_76.py)
 - [x] Day 77 - [Flask Template For A Blog](Day%2077%20-%20Flask%20Template%20For%20A%20Blog/project_77.py)
+- [x] Day 78 - [Flask Store Reflections](Day%2078%20-%20Flask%20Store%20Reflections/project_78.py)
