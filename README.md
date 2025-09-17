@@ -80,3 +80,4 @@
 - [x] Day 74 - [Style Web Portfolio](Day%2074%20-%20Style%20Web%20Portfolio/index.html)
 - [x] Day 75 - [Link Tree Website](Day%2075%20-%20Link%20Tree%20Website/index.html)
 - [x] Day 76 - [Flask Web Server](Day%2076%20-%20Flask%20Web%20Server/project_76.py)
+- [x] Day 77 - [Flask Template For A Blog](Day%2077%20-%20Flask%20Template%20For%20A%20Blog/project_77.py)
