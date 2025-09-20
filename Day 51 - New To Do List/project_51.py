@@ -70,5 +70,5 @@ while True:
   os.system("cls")
 
   f = open("todo.txt", "w")
-  f.write(str(to_do_list()))
+  f.write(str(to_do_list))
   f.close()
