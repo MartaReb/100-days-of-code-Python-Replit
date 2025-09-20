@@ -2,10 +2,11 @@ from flask import Flask, redirect
 
 app = Flask(__name__, static_url_path="/static")
 
-@app.route('/')
+@app.route("/")
 def index():
     page = ""
     return page
+    
 @app.route("/blog/day 76")
 def hr():
   return redirect("/day 76")
@@ -14,8 +15,8 @@ def hr():
 def br():
   return redirect("/day 77")
 
-@app.route('/hello/day 76')
-def hello():
+@app.route("/day 76")
+def day_76():
     title = "Day 76 on my programming journey"
     date = "September 15th"
     text = "Here is my coding project from 76 day."
@@ -29,8 +30,8 @@ def hello():
 
     return page
 
-@app.route('/day 77')
-def bye():
+@app.route("/day 77")
+def day_77():
     title = "Day 77 on my programming journey"
     date = "September 16th"
     text = "Here is my coding project from 76 day."
