@@ -87,3 +87,4 @@
 - [x] Day 81 - [I'm Not A Robot](Day%2081%20-%20I'm%20not%20a%20robot/project_81.py)
 - [x] Day 82 - [Bilingual Website](Day%2082%20-%20Bilingual%20Website/project_82.py)
 - [x] Day 83 - [Custom Themes to The Blog](Day%2083%20-%20%20Custom%20Themes%20to%20The%20Blog/project_83.py)
+- [x] Day 84 - [Flask Signup Form](Day%2084%20-%20Flask%20Signup%20Form/project_84.py)
