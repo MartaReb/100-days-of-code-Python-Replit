@@ -89,3 +89,4 @@
 - [x] Day 83 - [Custom Themes to The Blog](Day%2083%20-%20%20Custom%20Themes%20to%20The%20Blog/project_83.py)
 - [x] Day 84 - [Flask Signup Form](Day%2084%20-%20Flask%20Signup%20Form/project_84.py)
 - [x] Day 85 - [Flask Login System](Day%2085%20-%20Flask%20Login%20System/project_85.py)
+- [x] Day 85 - [Fully Functional Blog Engine](Day%2086%20-%20Fully%20Functional%20Blog%20Engine/project_86.py)
