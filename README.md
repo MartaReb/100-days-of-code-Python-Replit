@@ -92,3 +92,4 @@
 - [x] Day 86 - [Fully Functional Blog Engine](Day%2086%20-%20Fully%20Functional%20Blog%20Engine/project_86.py)
 - [x] Day 87 - [Authentication With Replit](Day%2087-%20Authentication%20With%20Replit/project_87.py)
 - [x] Day 88 - [Authentication Finesse with Replit](Day%2088%20-%20Authentication%20Finesse%20with%20Replit/project_88.py)
+- [x] Day 89 - [Community Chat App](Day%2089%20-%20Community%20Chat%20App/project_89.py)
