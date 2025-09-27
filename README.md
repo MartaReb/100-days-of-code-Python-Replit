@@ -94,3 +94,4 @@
 - [x] Day 88 - [Authentication Finesse with Replit](Day%2088%20-%20Authentication%20Finesse%20with%20Replit/project_88.py)
 - [x] Day 89 - [Community Chat App](Day%2089%20-%20Community%20Chat%20App/project_89.py)
 - [x] Day 90 - [Photos Of 10 Users](Day%2090%20-%20Photos%20Of%2010%20Users/project_90.py)
+- [x] Day 91 - [Random Jokes](Day%2091%20-%20Random%20Jokes/project_91.py)
