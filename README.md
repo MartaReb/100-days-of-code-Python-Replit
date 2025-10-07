@@ -98,3 +98,4 @@
 - [x] Day 92 - [Weather App](Day%2092%20-%20Weather%20App/project_92.py)
 - [x] Day 93 - [10 songs](Day%2093%20-%2010%20songs/project_93.py)
 - [x] Day 94 - [Articles](Day%2094%20-%20Articles/project_94.py)
+- [x] Day 95 - [Daily Track Generator](Day%2095%20-%20Daily%20Track%20Generator/project_95.py)
