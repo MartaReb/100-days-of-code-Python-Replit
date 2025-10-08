@@ -99,3 +99,4 @@
 - [x] Day 93 - [10 songs](Day%2093%20-%2010%20songs/project_93.py)
 - [x] Day 94 - [Articles](Day%2094%20-%20Articles/project_94.py)
 - [x] Day 95 - [Daily Track Generator](Day%2095%20-%20Daily%20Track%20Generator/project_95.py)
+- [x] Day 96 - [Scrape The Headlines](Day%2096%20-%20Scrape%20The%20Headlines/project_96.py)
