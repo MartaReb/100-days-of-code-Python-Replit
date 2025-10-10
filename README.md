@@ -101,3 +101,4 @@
 - [x] Day 95 - [Daily Track Generator](Day%2095%20-%20Daily%20Track%20Generator/project_95.py)
 - [x] Day 96 - [Scrape The Headlines](Day%2096%20-%20Scrape%20The%20Headlines/project_96.py)
 - [x] Day 97 - [Scraping with Gemini summariser](Day%2097%20-%20Scraping%20with%20Gemini%20summariser/project_97.py)
+- [x] Day 98 - [Daily Motivation Delivered to Your Inbox](Day%2098%20-%20Daily%20Motivation%20Delivered%20to%20Your%20Inbox/project_98.py)
