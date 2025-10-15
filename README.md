@@ -103,3 +103,4 @@
 - [x] Day 97 - [Scraping with Gemini summariser](Day%2097%20-%20Scraping%20with%20Gemini%20summariser/project_97.py)
 - [x] Day 98 - [Daily Motivation Delivered to Your Inbox](Day%2098%20-%20Daily%20Motivation%20Delivered%20to%20Your%20Inbox/project_98.py)
 - [x] Day 99 - [Combo Scraper - Emailer And Scheduler](Day%2099%20-%20Combo%20Scraper%20-%20Emailer%20And%20Scheduler/project_99.py)
+- [x] Day 100 - [Price Scraper](Day%20100%20-%20Price%20Scraper/project_100.py)
